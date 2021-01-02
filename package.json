@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "discord.js": "^12.5.1"
-  }
+  },
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Elic0de/discordbot.git",
+  "author": "Elic0de",
+  "license": "MIT"
 }
